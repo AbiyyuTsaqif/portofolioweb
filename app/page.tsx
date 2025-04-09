@@ -137,7 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-          Web and mobile app developer with a strong focus on building scalable, user-centric solutions. Experienced in frameworks like Laravel and modern frontend tools to create reliable, real-world applications.
+          Web and mobile app developer with a strong focus on building scalable, user-centric solutions. Experienced in frameworks like Tailwind, Flutter, Laravel and modern frontend tools to create reliable, real-world applications.
           </p>
         </div>
       </motion.section>
